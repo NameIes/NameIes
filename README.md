@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi, I'm a Web Developer
 
-<!--
-**NameIes/NameIes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building backend solutions with Python and Django. I enjoy creating efficient, scalable web applications and integrating them with modern frontend frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Backend:** Python, Django, Django REST Framework  
+- **Frontend:** Vue.js  
+- **DevOps:** Docker, Git, Linux  
+- **Tools & Extras:** PostgreSQL, SQLite, REST APIs, Webhooks, Telegram Bots
+
+---
+
+### 🚀 What I Do
+- Build and maintain full-featured web applications  
+- Create and integrate Telegram bots into business workflows  
+- Automate tasks and deploy services using Docker  
+- Continuously explore new technologies like machine learning  
+
+---
+
+### 📫 Contact Me
+**Email:** [NameIes@yandex.ru](mailto:NameIes@yandex.ru)
